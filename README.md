@@ -1,3 +1,3 @@
 # hello-word
-just another repository
-I'm Juan from brazil, and i want to learn more about github.
+I'm Juan from brazil, and I want to learn more about github.
+very good!
